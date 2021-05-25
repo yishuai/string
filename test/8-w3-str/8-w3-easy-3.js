@@ -164,7 +164,7 @@ console.log(search_word('aa, bb, cc, dd, aa', 'aa') == "'aa' was found 2 times."
 
 // Write a JavaScript function to remove non-printable ASCII chars
 
-console.log(remove_non_ascii('????ééêPHP-MySQL??Dtúú') == "PHP-MySQL");
+console.log(remove_non_ascii('????ééêPHP-MySQL??úú') == "PHP-MySQL");
 
 // 715
 
