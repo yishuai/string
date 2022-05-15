@@ -4,8 +4,7 @@
 
 JavaScript: Make a string uncamelize
 
-"Write a JavaScript function to uncamelize a string.
-
+“编写一个 JavaScript 函数来解开一个字符串。
 */
 
 // function uncamelize() {return }
